@@ -8,3 +8,4 @@ If you know a data report from an Iranian business:
 - Make a pull request and put the report in the `reports` directory.
 - Explain about that specific business (if it's not famous) in the pr's comment.
 - Provide a link to access the report publicly (We only archive the public reports).
+- You can also make a pr to [my blog post](https://github.com/saeedesmaili/saeed-esmaili/blob/main/content/blog/iranian-businesses-data-reports/index.fa.md) and update the list of reports.
