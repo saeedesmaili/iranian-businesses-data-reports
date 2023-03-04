@@ -82,3 +82,92 @@ Thanks to magnificent work of [Saeed Esmaili](https://github.com/saeedesmaili/ir
 [1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/irantalent-1399-salary.pdf?raw=true) - 
 [1399](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/irantalent-1399.pdf?raw=true)
 
+### Others
+
+[Adro-techrasa-1399](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/adro-techrasa-1399.pdf?raw=true)
+
+[Bahman-investment-1399-q3](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/bahman-investment-1399-q3.pdf?raw=true)
+
+[Bugdasht-1398](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/bugdasht-1398.pdf?raw=true) - 
+[Bugdasht-1399](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/bugdasht-1399.pdf?raw=true) 
+
+[Deema-1399-q1-q2](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/deema-1399-q1-q2.pdf?raw=true)
+
+[Derak-Cloud-1399](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/derak-cloud-1399.pdf?raw=true)
+
+[Eseminar-1399-q1-q2](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/eseminar-1399-q1-q2.pdf?raw=true)
+
+[Evand-1398](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/evand-1398.pdf?raw=true)
+
+[Faradars-1399-q1-q2](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/faradars-1399-q1-q2.pdf?raw=true) - 
+[Faradars-1399](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/faradars-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/fidibo-1399.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/fidibo-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/filimo-1397.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/filimo-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/ietemad-1392-1398.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/ilia-ceo-1401.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/iranhr-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/iranrenter-1398.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/itoll-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/jobvision-1399.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/jobvision-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/karboom-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/karzar-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/mediaad-1397-q2-q3-q4-1398-q1.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/mediaad-1398.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/mediaad-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/melkradar-1398-q2.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/melkradar-1399-q3.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/metrix-1398-q1-q2.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/metrix-1399-q1.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/metrix-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/novinhub-1398.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/novinhub-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/otaghak-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/pinket-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/rtl-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/sheypoor-1399-q1-automobile.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/sheypoor-1399-q3-real-estate.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/snapp-group-1399.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/snapp-group-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/tapsell-1397.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/tapsell-1398.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/tapsell-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/techrasa-1400.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/tedx-tehran-2013-2021.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/trendix-1398-ad-networks-market-share.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/trendix-1398-mobile-marketing-platforms.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/triboon-1399.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/virgool-97.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/virgool-98.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/yektanet-1397-q3-q4-1398-q1-q2.pdf?raw=true)
+
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/yektanet-1399.pdf?raw=true) - 
+[1399-salary](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/yektanet-1400.pdf?raw=true)
