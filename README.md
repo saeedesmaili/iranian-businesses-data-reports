@@ -1,11 +1,12 @@
 # Iranian Businesses Data Reports
-An archive for the data reports that Iranian businesses publish.
 
-For a detailed explanation about the project and each business read [my blog post](https://datanerd.blog/fa/iranian-businesses-data-reports/) about it.
+Thanks to magnificent work of [Saeed Esmaili](https://github.com/saeedesmaili/iranian-businesses-data-reports)
 
-## Contribution
-If you know a data report from an Iranian business:
-- Make a pull request and put the report in the `reports` directory.
-- Explain about that specific business (if it's not famous) in the pr's comment.
-- Provide a link to access the report publicly (We only archive the public reports).
-- You can also make a pr to [my blog post](https://github.com/saeedesmaili/saeed-esmaili/blob/main/content/blog/iranian-businesses-data-reports/index.fa.md) and update the list of reports.
+## Lists of reports
+
+### Alibaba
+
+[1397](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/alibaba-1397.pdf?raw=true) - 
+[1399-q2-q3](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/alibaba-1399-q2-q3.pdf?raw=true) - 
+[1399](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/alibaba-1399.pdf?raw=true) - 
+[1400](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/alibaba-1400.pdf?raw=true)
