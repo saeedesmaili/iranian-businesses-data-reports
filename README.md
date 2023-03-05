@@ -14,13 +14,15 @@ Thanks to magnificent work of [Saeed Esmaili](https://github.com/saeedesmaili/ir
 [Irantalent](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/irantalent-1398.pdf?raw=true) - 
 [Iranrenter](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/iranrenter-1398.pdf?raw=true) - 
 [Mediaad](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/mediaad-1398.pdf?raw=true) - 
+[Novinhub](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/novinhub-1398.pdf?raw=true) - 
 [Tapsell](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/tapsell-1398.pdf?raw=true) - 
+[Virgool](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/virgool-98.pdf?raw=true)
 
 ### 1399
 
 [Adro](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/adro-techrasa-1399.pdf?raw=true) - 
 [Alibaba](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/alibaba-1399.pdf?raw=true) - 
-[Bugdasht](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/bugdasht-1399.pdf?raw=true) 
+[Bugdasht](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/bugdasht-1399.pdf?raw=true) - 
 [CafeBazaar](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/cafebazaar-1399.pdf?raw=true) -
 [CafeBazaar-Ads](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/cafebazaar-1399-ads.pdf?raw=true) - 
 [Derak-Cloud](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/derak-cloud-1399.pdf?raw=true)
@@ -34,11 +36,15 @@ Thanks to magnificent work of [Saeed Esmaili](https://github.com/saeedesmaili/ir
 [Irantalent](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/irantalent-1399.pdf?raw=true) - 
 [Jobvision](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/jobvision-1399.pdf?raw=true) - 
 [Karboom](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/karboom-1399.pdf?raw=true) - 
+[Karzar](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/karzar-1399.pdf?raw=true) - 
 [Mediaad](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/mediaad-1399.pdf?raw=true) - 
 [Metrix](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/metrix-1399.pdf?raw=true) - 
+[Novinhub](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/novinhub-1399.pdf?raw=true) - 
 [Snapp](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/snapp-group-1399.pdf?raw=true) - 
+[Pinket](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/pinket-1399.pdf?raw=true) - 
 [Tapsell](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/tapsell-1399.pdf?raw=true) - 
-[Yektanet](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/yektanet-1399.pdf?raw=true) - 
+[Triboon](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/triboon-1399.pdf?raw=true) - 
+[Yektanet](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/yektanet-1399.pdf?raw=true)
 
 ### 1400
 
@@ -48,8 +54,11 @@ Thanks to magnificent work of [Saeed Esmaili](https://github.com/saeedesmaili/ir
 [Fidibo](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/fidibo-1400.pdf?raw=true) - 
 [Iranhr](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/iranhr-1400.pdf?raw=true) -
 [Itoll](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/itoll-1400.pdf?raw=true) - 
-[Jobvision](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/jobvision-1400.pdf?raw=true)
+[Jobvision](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/jobvision-1400.pdf?raw=true) -
 [Snapp](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/snapp-group-1400.pdf?raw=true) - 
+[Otaghak](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/otaghak-1400.pdf?raw=true) - 
+[RTL](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/rtl-1400.pdf?raw=true) - 
+[Techrasa](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/techrasa-1400.pdf?raw=true) - 
 [Yektanet](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports/blob/main/reports/yektanet-1400.pdf?raw=true)
 
 ### 1401
